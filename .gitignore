@@ -1,0 +1,7 @@
+# Editors
+.vscode/
+.idea/
+# Bytecode
+__pycache__/
+# Directories
+test/
