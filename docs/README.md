@@ -27,7 +27,7 @@ python filedating.py "C:/users/Bob/Pictures/Italy_2015"
 
 ### Options
 
-```-n```, ```--new-name <Name>```: Rename files to <Name>.
+```-n```, ```--new-name <Name>```: Rename files to Name.
 
 ```-f```, ```--date-format <Format>```: Set custom date format in [strftime format](https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes) (e.g. %Y-%m-%d_%H%M%S)
 
